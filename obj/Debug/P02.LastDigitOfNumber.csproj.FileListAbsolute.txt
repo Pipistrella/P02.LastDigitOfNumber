@@ -1,0 +1,6 @@
+C:\Users\Oriya\Desktop\SoftUni\Fundamentals\Advanced C#\Lecture 2\Methods\P02.LastDigitOfNumber\bin\Debug\P02.LastDigitOfNumber.exe.config
+C:\Users\Oriya\Desktop\SoftUni\Fundamentals\Advanced C#\Lecture 2\Methods\P02.LastDigitOfNumber\bin\Debug\P02.LastDigitOfNumber.exe
+C:\Users\Oriya\Desktop\SoftUni\Fundamentals\Advanced C#\Lecture 2\Methods\P02.LastDigitOfNumber\bin\Debug\P02.LastDigitOfNumber.pdb
+C:\Users\Oriya\Desktop\SoftUni\Fundamentals\Advanced C#\Lecture 2\Methods\P02.LastDigitOfNumber\obj\Debug\P02.LastDigitOfNumber.csprojResolveAssemblyReference.cache
+C:\Users\Oriya\Desktop\SoftUni\Fundamentals\Advanced C#\Lecture 2\Methods\P02.LastDigitOfNumber\obj\Debug\P02.LastDigitOfNumber.exe
+C:\Users\Oriya\Desktop\SoftUni\Fundamentals\Advanced C#\Lecture 2\Methods\P02.LastDigitOfNumber\obj\Debug\P02.LastDigitOfNumber.pdb
